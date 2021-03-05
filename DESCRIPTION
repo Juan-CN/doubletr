@@ -1,0 +1,13 @@
+Package: doubletr
+Type: Package
+Title: Doublet Counter Utilities
+Version: 0.1.0
+Author: Juan Carabeo-Nieva
+Maintainer: Juan Carabeo-Nieva <jcarabeonieva@gmail.com>
+Description: 
+	User generates a Results.csv file using an ImageJ macro for obtaining coordinates from thresholded images. Extract the individual coordinate files using extract_coords().
+	User counts doublets using count_doublets(). Can produce image summary plots, if the images are in the same directory. Distance threshold can be set by user.
+	User can organize the files into folders using keywords separated by a comma and space ", " delimiter.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
